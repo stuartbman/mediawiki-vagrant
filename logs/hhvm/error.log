@@ -1,9 +1,0 @@
-Jun 23 12:34:19 mediawiki-vagrant hhvm: Unable to open pid file /var/run/hhvm/hhvm.pid for write
-Jun 23 15:10:47 mediawiki-vagrant hhvm: Unable to open pid file /var/run/hhvm/hhvm.pid for write
-Jun 23 16:01:03 mediawiki-vagrant hhvm: Finished singleJitRequest 1
-Jun 23 16:16:28 mediawiki-vagrant hhvm: Unable to open pid file /var/run/hhvm/hhvm.pid for write
-Jun 23 16:32:26 mediawiki-vagrant hhvm: Finished singleJitRequest 1
-Jun 23 16:32:59 mediawiki-vagrant hhvm: Finished singleJitRequest 2
-Jun 23 16:33:11 mediawiki-vagrant hhvm: Finished singleJitRequest 3
-Jun 23 16:33:19 mediawiki-vagrant hhvm: Finished singleJitRequest 4
-Jun 23 16:33:19 mediawiki-vagrant hhvm: Finished singleJitRequest 5

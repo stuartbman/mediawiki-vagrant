@@ -1,4 +1,0 @@
-{"name":"citoid","hostname":"mediawiki-vagrant","pid":4885,"level":30,"levelPath":"info/service-runner","msg":"master(4885) initializing 1 workers","time":"2016-06-23T15:26:18.633Z","v":0}
-{"name":"citoid","hostname":"mediawiki-vagrant","pid":4930,"level":30,"levelPath":"info","msg":"Worker 4930 listening on 0.0.0.0:1970","time":"2016-06-23T15:26:24.367Z","v":0}
-{"name":"citoid","hostname":"mediawiki-vagrant","pid":1980,"level":30,"levelPath":"info/service-runner","msg":"master(1980) initializing 1 workers","time":"2016-06-23T16:16:40.320Z","v":0}
-{"name":"citoid","hostname":"mediawiki-vagrant","pid":2037,"level":30,"levelPath":"info","msg":"Worker 2037 listening on 0.0.0.0:1970","time":"2016-06-23T16:16:58.076Z","v":0}
