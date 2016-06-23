@@ -1,0 +1,97 @@
+Jun 23 15:10:42 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:42 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48488] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:42 mediawiki-vagrant apache2[1833]: [proxy:error] [pid 1833] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:42 mediawiki-vagrant apache2[1833]: [proxy_fcgi:error] [pid 1833] [client 127.0.0.1:48490] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:42 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:42 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48492] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:42 mediawiki-vagrant apache2[1833]: [proxy:error] [pid 1833] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:42 mediawiki-vagrant apache2[1833]: [proxy_fcgi:error] [pid 1833] [client 127.0.0.1:48494] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:42 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:42 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48496] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:42 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:42 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48498] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:42 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:42 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48500] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:43 mediawiki-vagrant apache2[1833]: [proxy:error] [pid 1833] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:43 mediawiki-vagrant apache2[1833]: [proxy_fcgi:error] [pid 1833] [client 127.0.0.1:48502] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:43 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:43 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48504] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:43 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:43 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48506] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:43 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:43 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48508] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:43 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:43 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48510] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:43 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:43 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48512] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:43 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:43 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48514] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:43 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:43 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48516] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:43 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:43 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48518] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:43 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:43 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48520] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:44 mediawiki-vagrant apache2[1836]: [proxy:error] [pid 1836] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:44 mediawiki-vagrant apache2[1836]: [proxy_fcgi:error] [pid 1836] [client 127.0.0.1:48522] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:44 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:44 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48524] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:44 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:44 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48526] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:44 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:44 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48528] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:44 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:44 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48530] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:44 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:44 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48532] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:44 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:44 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48534] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:44 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:44 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48536] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:44 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:44 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48538] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:45 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:45 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48540] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:45 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:45 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48542] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:45 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:45 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48544] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:45 mediawiki-vagrant apache2[1833]: [proxy:error] [pid 1833] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:45 mediawiki-vagrant apache2[1833]: [proxy_fcgi:error] [pid 1833] [client 127.0.0.1:48546] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:45 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:45 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48548] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:45 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:45 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48550] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:45 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:45 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48552] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:45 mediawiki-vagrant apache2[1833]: [proxy:error] [pid 1833] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:45 mediawiki-vagrant apache2[1833]: [proxy_fcgi:error] [pid 1833] [client 127.0.0.1:48554] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:45 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:45 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48556] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:45 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:45 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48558] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:46 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:46 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48560] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:46 mediawiki-vagrant apache2[1834]: [proxy:error] [pid 1834] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:46 mediawiki-vagrant apache2[1834]: [proxy_fcgi:error] [pid 1834] [client 127.0.0.1:48562] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:46 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:46 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48564] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:46 mediawiki-vagrant apache2[1834]: [proxy:error] [pid 1834] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:46 mediawiki-vagrant apache2[1834]: [proxy_fcgi:error] [pid 1834] [client 127.0.0.1:48566] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:46 mediawiki-vagrant apache2[1836]: [proxy:error] [pid 1836] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:46 mediawiki-vagrant apache2[1836]: [proxy_fcgi:error] [pid 1836] [client 127.0.0.1:48568] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:46 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:46 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48570] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:46 mediawiki-vagrant apache2[1833]: [proxy:error] [pid 1833] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:46 mediawiki-vagrant apache2[1833]: [proxy_fcgi:error] [pid 1833] [client 127.0.0.1:48572] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:46 mediawiki-vagrant apache2[1832]: [proxy:error] [pid 1832] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:46 mediawiki-vagrant apache2[1832]: [proxy_fcgi:error] [pid 1832] [client 127.0.0.1:48574] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:46 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:46 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48576] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:46 mediawiki-vagrant apache2[1833]: [proxy:error] [pid 1833] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:46 mediawiki-vagrant apache2[1833]: [proxy_fcgi:error] [pid 1833] [client 127.0.0.1:48578] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 15:10:47 mediawiki-vagrant apache2[1835]: [proxy:error] [pid 1835] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (*) failed
+Jun 23 15:10:47 mediawiki-vagrant apache2[1835]: [proxy_fcgi:error] [pid 1835] [client 127.0.0.1:48580] AH01079: failed to make connection to backend: 127.0.0.1
+Jun 23 16:16:04 mediawiki-vagrant apache2[1854]: [proxy:error] [pid 1854] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9000 (127.0.0.1) failed
+Jun 23 16:16:04 mediawiki-vagrant apache2[1854]: [proxy:error] [pid 1854] AH00959: ap_proxy_connect_backend disabling worker for (127.0.0.1) for 0s
+Jun 23 16:16:04 mediawiki-vagrant apache2[1854]: [proxy_fcgi:error] [pid 1854] [client 10.0.2.2:49373] AH01079: failed to make connection to backend: 127.0.0.1

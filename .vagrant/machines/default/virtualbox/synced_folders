@@ -1,0 +1,1 @@
+{"nfs":{"vagrant-root":{"id":"vagrant-root","type":"nfs","mount_options":["noatime","rsize=32767","wsize=32767","async"],"guestpath":"/vagrant","hostpath":"/Users/mHealthful/Mediwikis/mediawiki-vagrant","disabled":false,"__vagrantfile":true,"map_uid":501,"map_gid":20,"nfs_udp":true,"nfs_version":3,"uuid":"1493691081"}}}
