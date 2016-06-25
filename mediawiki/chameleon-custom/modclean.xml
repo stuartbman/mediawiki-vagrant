@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is part of the MediaWiki skin Chameleon.
+
+@copyright 2013 - 2014, Stephan Gambke
+@license   GNU General Public License, version 3 (or any later version)
+
+The Chameleon skin is free software: you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option) any
+later version.
+
+The Chameleon skin is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+details.
+
+You should have received a copy of the GNU General Public License along
+with this program. If not, see <http://www.gnu.org/licenses/>.
+
+@author Stephan Gambke
+@since 1.1
+@ingroup Skins
+-->
+
+<structure>
+
+
+	<component type="NavbarHorizontal" >
+	
+		<modification type="Sticky" ></modification>
+		<component type="Logo" position="head"></component>
+		<component type="PersonalTools" position="right"></component>
+		<component type="SearchBar" position="right"></component>
+		<component type="NavMenu" flatten="navigation" ></component>
+
+		
+	</component>
+
+	<grid>
+		<row>
+			<component type="Html">
+				<div class="ad_unit" id="Chameleon">
+					<div class='addthis_recommended_vertical'></div>
+					<h3 id='Sponsorship'> Sponsors </h3>
+					<a id="RCP" href="https://www.rcplondon.ac.uk/"></a>
+						<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- Mediwikis Wide -->
+						<div id='div-gpt-ad-1394820988908-0'>
+						<h3 id='Advertisement'> Advertisement </h3>
+							<script type='text/javascript'>
+								googletag.cmd.push(function() { googletag.display('div-gpt-ad-1394820988908-0'); });
+								var dimensionValue = 'chameleon';
+								ga('set', 'theme', dimensionValue);
+		
+								// Send the custom dimension value with a pageview hit.
+								//ga('send', 'pageview');
+							</script>
+						</div>
+					
+				</div>
+			</component>
+		</row>
+			
+		<row>
+			<cell span="12">
+				<component type="PageTools"></component>
+			</cell>
+		</row>
+		
+		<row>
+			<cell span="12">
+				<component type="SiteNotice"></component>
+				<component type="MainContent"></component>
+			</cell>
+		</row>
+
+		<row>
+			<modification type="ShowOnlyFor" permission="edit"></modification>
+			<cell span="12">
+				<component type="ToolbarHorizontal"></component>
+			</cell>
+		</row>
+
+		<row>
+			<cell span="12">
+				<component type="FooterInfo" class="list-inline"></component>
+			</cell>
+		</row>
+
+	</grid>
+</structure>

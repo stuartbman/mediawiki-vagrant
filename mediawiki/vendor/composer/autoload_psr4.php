@@ -16,6 +16,8 @@ return array(
     'ValueParsers\\' => array($vendorDir . '/data-values/interfaces/src/ValueParsers', $vendorDir . '/data-values/common/src/ValueParsers'),
     'ValueFormatters\\' => array($vendorDir . '/data-values/interfaces/src/ValueFormatters', $vendorDir . '/data-values/common/src/ValueFormatters'),
     'Symfony\\Component\\Yaml\\' => array($vendorDir . '/symfony/yaml'),
+    'Skins\\Chameleon\\Tests\\' => array($baseDir . '/skins/chameleon/tests/phpunit'),
+    'Skins\\Chameleon\\' => array($baseDir . '/skins/chameleon/src'),
     'Serializers\\' => array($vendorDir . '/serialization/serialization/src/Serializers'),
     'SMW\\' => array($baseDir . '/extensions/SemanticMediaWiki/src'),
     'ParserHooks\\' => array($vendorDir . '/mediawiki/parser-hooks/src'),

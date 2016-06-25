@@ -52,7 +52,11 @@ require 'mediawiki-vagrant/settings/definitions'
 mwv = MediaWikiVagrant::Environment.new(File.expand_path('..', __FILE__))
 settings = mwv.load_settings
 
+
+
 Vagrant.configure('2') do |config|
+
+
   config.vm.hostname = 'mediawiki-vagrant.dev'
   config.package.name = 'mediawiki.box'
 
@@ -212,6 +216,12 @@ Vagrant.configure('2') do |config|
 
   config.vm.provision :mediawiki_reload if mwv.reload?
 
+  config.push.define "ftp" do |push|
+      push.host="104.155.14.40"
+      push.username="stuartbman"
+
+  end
+
   config.vm.provision :puppet do |puppet|
     # Use empty module path to avoid an extra mount.
     # See --modulepath below
@@ -301,3 +311,5 @@ begin
   require mwv.path('Vagrantfile-extra').to_s
 rescue LoadError
 end
+
+
